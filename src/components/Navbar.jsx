@@ -33,3 +33,5 @@ const Navbar = () => {
 }
 
 export default Navbar
+
+// fixed the .env file
